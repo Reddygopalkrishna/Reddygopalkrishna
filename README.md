@@ -1,27 +1,40 @@
 <h1 align="center">Hi 👋, I'm Reddy Gopala Krishna</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">Frontend Developer | JavaScript & React Enthusiast </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/213911845-af37a709-8995-40f6-9a3c-ce4a52d2892b.gif" width="600" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on building responsive web applications
-- 🌱 I’m currently learning **Tailwind CSS**, and diving deeper into **React.js**
-- 💬 Ask me about **JavaScript, React, HTML/CSS, Bootstrap**
-- 📫 How to reach me: **reddygopalkrishna00@gmail.com**
-- ⚡ Fun fact: I enjoy solving frontend challenges and pixel-perfect UI
+- 🔭 I’m currently building responsive, scalable web apps
+- 🌱 Skills: **React.js, JavaScript, HTML/CSS, Git**,**Tailwind CSS**, **REST APIs**, **Agile workflows**,**Material UI**
+- 📫 Reach me: **reddygopalkrishna06@gmail.com**
+- ⚡ Fun fact: I enjoy building clean, responsive user-friendly UIs
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,vscode,MaterialUI" />
 </p>
 
 ---
+
+### 🚀 Featured Projects
+
+| Project | Description | Demo / Code |
+|--------|-------------|-------------|
+| **Edusity Website** | A clean, responsive educational website UI built using React,HTML, CSS & Bootstrap. Showcases frontend structure and layout skills with real-world design patterns. | [GitHub Repo](https://github.com/Reddygopalkrishna/edusity-web-app) · [Live Website](https://edusity-university.netlify.app/) |
+| **LuxeMart Store** | A modern e-commerce frontend with responsive design, interactive components, and category-based product filtering using React, HTML, CSS, and Bootstrap. | [GitHub Repo](https://github.com/Reddygopalkrishna/LuxeMart_Website?tab=readme-ov-file) · [Live Website](https://luxe-mart-website.vercel.app/) |
+| **Loan Calculator App** | Built with React, this tool calculates loan payments dynamically. Uses React Context API for efficient state management and form handling. Clean UI with real-time output.Styles using Material UI | [GitHub Repo](https://github.com/Reddygopalkrishna/Loan-Calculator-App) · [Live Site](https://loan-calculator-app-murex.vercel.app/) |
+
+---
+### 🧩 And More...
+
+Explore my GitHub profile to find more **mini projects and UI practice apps**
 
 ### 📊 GitHub Stats
 
@@ -32,12 +45,12 @@
 
 ---
 
-### 🌐 Connect With Me
+### 📫 Connect With Me
 
-<p align="left">
-  <a href="mailto:reddygopalkrishna00@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p>
+  <a href="mailto:reddygopalkrishna06@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile!</p>
+<p align="center">Thanks for visiting my profile! 🚀</p>
