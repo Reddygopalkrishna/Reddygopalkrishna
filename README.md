@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reddy Gopala Krishna</h1>
-<h3 align="center">Frontend Developer | JavaScript & React Enthusiast </h3>
+<h3 align="center">Frontend Developer | React Enthusiast </h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
@@ -8,19 +8,16 @@
 
 ---
 
-- 🔭 I’m currently building responsive, scalable web apps
-- 🌱 Skills: **React.js, JavaScript, HTML/CSS, Git**,**Tailwind CSS**, **REST APIs**, **Agile workflows**,**Material UI**
+- 🔭 Building responsive, scalable web apps
+- 🌱 Skills: **React.js, JavaScript, HTML/CSS,Redux, Git**,**Tailwind CSS**, **REST APIs**, **Agile workflows**,**Material UI**
 - 📫 Reach me: **reddygopalkrishna06@gmail.com**
 - ⚡ Fun fact: I enjoy building clean, responsive user-friendly UIs
-
 ---
-
 ### 🛠️ Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,vscode,MaterialUI" />
 </p>
-
 ---
 
 ### 🚀 Featured Projects
@@ -34,7 +31,7 @@
 ---
 ### 🧩 And More...
 
-Explore my GitHub profile to find more **mini projects and UI practice apps**
+Explore my GitHub profile to find **Projects and UI practice apps**
 
 ### 📊 GitHub Stats
 
@@ -46,7 +43,6 @@ Explore my GitHub profile to find more **mini projects and UI practice apps**
 ---
 
 ### 📫 Connect With Me
-
 <p>
   <a href="mailto:reddygopalkrishna06@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
