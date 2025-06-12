@@ -24,6 +24,7 @@
 
 | Project | Description | Demo / Code |
 |--------|-------------|-------------|
+| **Porfolio 3d Website** | A modern, interactive 3D portfolio website showcasing my work as a Frontend Developer. Built with React and Three.js, this portfolio features smooth animations, responsive design, and an engaging user experience. | [GitHub Repo](https://github.com/Reddygopalkrishna/Portfolio) · [Live Website](https://portfolio-reddy-gopal-krishna.vercel.app/) |
 | **Edusity Website** | A clean, responsive educational website UI built using React,HTML, CSS & Bootstrap. Showcases frontend structure and layout skills with real-world design patterns. | [GitHub Repo](https://github.com/Reddygopalkrishna/edusity-web-app) · [Live Website](https://edusity-university.netlify.app/) |
 | **LuxeMart Store** | A modern e-commerce frontend with responsive design, interactive components, and category-based product filtering using React, HTML, CSS, and Bootstrap. | [GitHub Repo](https://github.com/Reddygopalkrishna/LuxeMart_Website?tab=readme-ov-file) · [Live Website](https://luxe-mart-website.vercel.app/) |
 | **Loan Calculator App** | Built with React, this tool calculates loan payments dynamically. Uses React Context API for efficient state management and form handling. Clean UI with real-time output.Styles using Material UI | [GitHub Repo](https://github.com/Reddygopalkrishna/Loan-Calculator-App) · [Live Site](https://loan-calculator-app-murex.vercel.app/) |
