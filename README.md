@@ -24,6 +24,7 @@
 
 | Project | Description | Demo / Code |
 |--------|-------------|-------------|
+| **XORA** |Xora is a Modern UI/UX SaaS website developed using React.js and Tailwind CSS that exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general. | [GitHub Repo](https://github.com/Reddygopalkrishna/XORA) · [Live Website](https://xora-lyart-kappa.vercel.app/) |
 | **Porfolio 3d Website** | A modern, interactive 3D portfolio website showcasing my work as a Frontend Developer. Built with React and Three.js, this portfolio features smooth animations, responsive design, and an engaging user experience. | [GitHub Repo](https://github.com/Reddygopalkrishna/Portfolio)|
 | **NodeTalk – Full Stack Realtime Chat App** | A modern real-time chat application built with the MERN stack, featuring real-time messaging likw WhatsApp, user authentication, and cloud image uploads.| [GitHub Repo](https://github.com/Reddygopalkrishna/NodeTalk-Chat-App) · [Live Website](https://nodetalk-chat-app.onrender.com/login) |
 | **Edusity Website** | A clean, responsive educational website UI built using React,HTML, CSS & Bootstrap. Showcases frontend structure and layout skills with real-world design patterns. | [GitHub Repo](https://github.com/Reddygopalkrishna/edusity-web-app) · [Live Website](https://edusity-university.netlify.app/) |
