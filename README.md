@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reddy Gopala Krishna</h1>
-<h3 align="center">A Self Taught Developer Expertise in React & JavScript/TypeScript   </h3>
+<h3 align="center">A Self Taught Developer | Expertise in React & JavScript/TypeScript   </h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
