@@ -9,7 +9,7 @@
 ---
 
 - 🔭 Building responsive, scalable web apps
-- 🌱 Skills: **React.js, JavaScript/TypeScript, HTML/CSS,Redux, Git**,**Tailwind CSS**, **REST APIs**, **BootStrap**,**Material UI**
+- 🌱 Skills: **React.js,Node.js,python, JavaScript/TypeScript, HTML/CSS,Redux, Git**,**Tailwind CSS**, **REST APIs**, **BootStrap**,**Material UI**
 - 📫 Reach me: **reddygopalkrishna06@gmail.com**
 - ⚡ Fun fact: I enjoy building clean, responsive user-friendly UIs
 ---
