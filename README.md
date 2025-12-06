@@ -1,55 +1,50 @@
-<h1 align="center">Hi 👋, I'm Reddy Gopala Krishna</h1>
-<h3 align="center">A Self Taught Developer | Expertise in Building Scalable Web Apps   </h3>
+<h1 align="center">✨ Reddy Gopala Krishna ✨</h1>
+<h3 align="center">Self-Taught Developer • Crafting Scalable & Modern Web Applications</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-  <img src="https://user-images.githubusercontent.com/74038190/213911845-af37a709-8995-40f6-9a3c-ce4a52d2892b.gif" width="600" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Node.js+Enthusiast;Building+Fast+and+Scalable+Web+Apps;Clean+UI%2FUX+Lover;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
 
-- 🔭 Building responsive, scalable web apps
-- 🌱 Skills: **React.js,Node.js,python, JavaScript/TypeScript, HTML/CSS,Redux, Git**,**Tailwind CSS**, **REST APIs**, **BootStrap**,**Material UI**
-- 📫 Reach me: **reddygopalkrishna06@gmail.com**
-- ⚡ Fun fact: I enjoy building clean, responsive user-friendly UIs
----
-### 🛠️ Tech Stack
+## 🌟 About Me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,vscode,MaterialUI,ts" />
-</p>
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Demo / Code |
-|--------|-------------|-------------|
-| **XORA** |Xora is a Modern UI/UX SaaS website developed using React.js and Tailwind CSS that exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general. | [GitHub Repo](https://github.com/Reddygopalkrishna/XORA) · [Live Website](https://xora-lyart-kappa.vercel.app/) |
-| **Porfolio 3d Website** | A modern, interactive 3D portfolio website showcasing my work as a Frontend Developer. Built with React and Three.js, this portfolio features smooth animations, responsive design, and an engaging user experience. | [GitHub Repo](https://github.com/Reddygopalkrishna/Portfolio)|
-| **NodeTalk – Full Stack Realtime Chat App** | A modern real-time chat application built with the MERN stack, featuring real-time messaging likw WhatsApp, user authentication, and cloud image uploads.| [GitHub Repo](https://github.com/Reddygopalkrishna/NodeTalk-Chat-App) · [Live Website](https://nodetalk-chat-app.onrender.com/login) |
-| **Edusity Website** | A clean, responsive educational website UI built using React,HTML, CSS & Bootstrap. Showcases frontend structure and layout skills with real-world design patterns. | [GitHub Repo](https://github.com/Reddygopalkrishna/edusity-web-app) · [Live Website](https://edusity-university.netlify.app/) |
-| **LuxeMart Store** | A modern e-commerce frontend with responsive design, interactive components, and category-based product filtering using React, HTML, CSS, and Bootstrap. | [GitHub Repo](https://github.com/Reddygopalkrishna/LuxeMart_Website?tab=readme-ov-file) · [Live Website](https://luxe-mart-website.vercel.app/) |
-| **Loan Calculator App** | Built with React, this tool calculates loan payments dynamically. Uses React Context API for efficient state management and form handling. Clean UI with real-time output.Styles using Material UI | [GitHub Repo](https://github.com/Reddygopalkrishna/Loan-Calculator-App) · [Live Site](https://loan-calculator-app-murex.vercel.app/) |
+- 🚀 Passionate about building **responsive, scalable web apps**  
+- 🎨 Love crafting **clean UI/UX and performance-optimized interfaces**  
+- 📚 Self-taught developer, always learning & improving  
+- 📩 Reach me: **reddygopalkrishna06@gmail.com**  
 
 ---
-### 🧩 And More...
 
-Explore my GitHub profile to find **Projects and UI practice apps**
+## 🛠️ Tech Stack
 
-### 📊 GitHub Stats
+**Frontend:**  
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React.js` · `Redux` · `Tailwind CSS` · `Bootstrap` · `Material UI`
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reddygopalkrishna&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Reddygopalkrishna&theme=tokyonight" width="48%" />
+**Backend:**  
+`Node.js` · `Express.js` · `REST APIs`
+
+**Tools:**  
+`Git` · `GitHub` · `VS Code` · `Python (Basics)`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Reddygopalkrishna&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Reddygopalkrishna&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Connect With Me
-<p>
-  <a href="mailto:reddygopalkrishna06@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+## 🌐 Connect With Me
+
+📧 **Email:** `reddygopalkrishna06@gmail.com`
 
 ---
 
-<p align="center">Thanks for visiting my profile! 🚀</p>
+<p align="center">
+  <b>✨ Thanks for visiting my profile!</b>  
+  <br/>Building. Learning. Improving — every day 🚀
+</p>
