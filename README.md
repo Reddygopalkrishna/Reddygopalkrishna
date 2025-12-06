@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reddy Gopala Krishna</h1>
-<h3 align="center">A Self Taught Developer | Expertise in building scalable we Apps   </h3>
+<h3 align="center">A Self Taught Developer | Expertise in Building Scalable Web Apps   </h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
@@ -9,7 +9,7 @@
 ---
 
 - 🔭 Building responsive, scalable web apps
-- 🌱 Skills: **React.js, JavaScript/TypeScript, HTML/CSS,Redux, Git**,**Tailwind CSS**, **REST APIs**, **Agile workflows**,**Material UI**
+- 🌱 Skills: **React.js, JavaScript/TypeScript, HTML/CSS,Redux, Git**,**Tailwind CSS**, **REST APIs**, **BootStrap**,**Material UI**
 - 📫 Reach me: **reddygopalkrishna06@gmail.com**
 - ⚡ Fun fact: I enjoy building clean, responsive user-friendly UIs
 ---
