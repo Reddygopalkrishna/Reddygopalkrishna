@@ -2,7 +2,7 @@
 <h3 align="center">Self-Taught Developer • Crafting Scalable & Modern Web Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Node.js+Enthusiast;Building+Fast+and+Scalable+Web+Apps;Clean+UI%2FUX+Lover;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Frontend+Developer;Building+Fast+and+Scalable+Web+Apps;Clean+UI%2FUX+Lover;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -18,14 +18,9 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React.js` · `Redux` · `Tailwind CSS` · `Bootstrap` · `Material UI`
+**Skills:**  
+`React.js`· `JavaScript` · `TypeScript` .`REST APIs`·  · `Redux` · `Tailwind CSS` · `Bootstrap` · `Material UI`.`Node.js` · `Express.js` · `HTML` · `CSS`
 
-**Backend:**  
-`Node.js` · `Express.js` · `REST APIs`
-
-**Tools:**  
-`Git` · `GitHub` · `VS Code` · `Python (Basics)`
 
 ---
 
