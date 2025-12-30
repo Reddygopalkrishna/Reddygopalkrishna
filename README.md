@@ -23,7 +23,7 @@
 </p>
 
 ---
-`React.js` · `TypeScript` · `JavaScript` · `Redux` · `Node.js` · `Express.js` · `REST APIs`.`Tailwind CSS` · `Material UI` · `Bootstrap`
+`React.js` · `TypeScript` · `JavaScript` · `Redux` · `Node.js` · `Express.js` · `REST APIs`.`Tailwind CSS` · `Material UI` · `Bootstrap` .`Python`
 
 
 ---
