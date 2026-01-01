@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=Software+Developer;React+%7C+TypeScript+Enthusiast;Building+Fast+and+Scalable+Web+Apps;UI%2FUX+Perfectionist;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=Software+Developer;React+%7C+JavaScript/TypeScript+Enthusiast;Building+Fast+and+Scalable+Web+Apps;UI%2FUX+Perfectionist;Always+Learning+%F0%9F%9A%80" />
 </p>
 <h3 align="center">Self-Taught Developer • Creating Scalable & Modern Web Apps</h3>
 
@@ -9,7 +9,7 @@
 ## ✨ About Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/assets/animated-dev.gif" width="320" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/coding.gif" width="420" />
 </p>
 
 - 🚀 Focused on building **fast, scalable, and responsive web applications**  
