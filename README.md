@@ -8,8 +8,6 @@
 ---
 ## ✨ About Me
 
-<img align="right" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Technologist/3D/technologist_3d.png" width="260"/>
-
 - 🚀 Focused on building **fast, scalable, and responsive web applications**  
 - 🎨 Passionate about **modern UI/UX**, clean layouts & smooth interactions  
 - 🧠 Continuous learner exploring emerging technologies  
