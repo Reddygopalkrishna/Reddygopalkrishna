@@ -1,5 +1,8 @@
 <h1 align="center">🌈 Reddy Gopala Krishna</h1>
 <h3 align="center">Self-Taught Developer • Creating Scalable & Modern Web Apps</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Reddygopalkrishna&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=Software+Developer;React+%7C+TypeScript+Enthusiast;Building+Fast+and+Scalable+Web+Apps;UI%2FUX+Perfectionist;Always+Learning+%F0%9F%9A%80" />
