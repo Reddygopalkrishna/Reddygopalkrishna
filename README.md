@@ -8,9 +8,7 @@
 ---
 ## ✨ About Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/coding.gif" width="420" />
-</p>
+<img align="right" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Technologist/3D/technologist_3d.png" width="260"/>
 
 - 🚀 Focused on building **fast, scalable, and responsive web applications**  
 - 🎨 Passionate about **modern UI/UX**, clean layouts & smooth interactions  
