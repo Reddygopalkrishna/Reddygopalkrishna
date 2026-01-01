@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,redux,nodejs,express,graphql,html,css,tailwind,bootstrap,materialui,mongodb,mysql,git,github,vscode&perline=9" />
 </p>
-
+---
 `Python`·`JavaScript`·`React.js` · `TypeScript` · `Redux` · `Node.js` · `Express.js` · `REST APIs`.`Tailwind CSS` · `Material UI` · `Bootstrap` · `HTML` · `CSS` · `SQL` · `MongoDB` · `React Query` . `GraphQL` · `Formik`
 
 
