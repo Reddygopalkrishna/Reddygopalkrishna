@@ -11,7 +11,7 @@
 
 - 🚀 Focused on building **fast, scalable, and responsive web applications**  
 - 🎨 Passionate about **modern UI/UX**, clean layouts & smooth interactions  
-- 🧠 Continuous learner exploring full-stack technologies  
+- 🧠 Continuous learner exploring emerging technologies
 - 📩 Contact me: **reddygopalkrishna06@gmail.com**
 
 ---
@@ -23,7 +23,7 @@
 </p>
 
 ---
-`React.js` · `TypeScript` · `JavaScript` · `Redux` · `Node.js` · `Express.js` · `REST APIs`.`Tailwind CSS` · `Material UI` · `Bootstrap` .`Python`
+`Python`·`JavaScript`·`React.js` · `TypeScript` · `Redux` · `Node.js` · `Express.js` · `REST APIs`.`Tailwind CSS` · `Material UI` · `Bootstrap` · `HTML` · `CSS` · `SQL` · `MongoDB` · `React Query` . `GraphQL` · `Formik`
 
 
 ---
@@ -36,6 +36,16 @@
 </p>
 
 ---
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Reddygopalkrishna&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Reddygopalkrishna&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Reddygopalkrishna&theme=dracula&hide_border=true" />
+</p>
 
 ## 🔗 Connect With Me
 
