@@ -6,13 +6,23 @@
 
 
 ---
-
-## ✨ About Me
+<table>
+<tr>
+<td width="60%">
 
 - 🚀 Focused on building **fast, scalable, and responsive web applications**  
 - 🎨 Passionate about **modern UI/UX**, clean layouts & smooth interactions  
-- 🧠 Continuous learner exploring emerging technologies
+- 🧠 Continuous learner exploring emerging technologies  
 - 📩 Contact me: **reddygopalkrishna06@gmail.com**
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-fcba8b3f-7c0f-4c67-9f5c-4b4c4c8a8f47.png" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -21,7 +31,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,redux,nodejs,express,graphql,html,css,tailwind,bootstrap,materialui,mongodb,mysql,git,github,vscode&perline=9" />
 </p>
----
+
 `Python`·`JavaScript`·`React.js` · `TypeScript` · `Redux` · `Node.js` · `Express.js` · `REST APIs`.`Tailwind CSS` · `Material UI` · `Bootstrap` · `HTML` · `CSS` · `SQL` · `MongoDB` · `React Query` . `GraphQL` · `Formik`
 
 
